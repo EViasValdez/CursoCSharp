@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\bin\Debug\net6.0\VariablesEstaticas.exe
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\bin\Debug\net6.0\VariablesEstaticas.deps.json
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\bin\Debug\net6.0\VariablesEstaticas.runtimeconfig.json
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\bin\Debug\net6.0\VariablesEstaticas.dll
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\bin\Debug\net6.0\VariablesEstaticas.pdb
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\VariablesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\VariablesEstaticas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\VariablesEstaticas.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\VariablesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\VariablesEstaticas.dll
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\refint\VariablesEstaticas.dll
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\VariablesEstaticas.pdb
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\VariablesEstaticas.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\VariablesEstaticas\VariablesEstaticas\obj\Debug\net6.0\ref\VariablesEstaticas.dll

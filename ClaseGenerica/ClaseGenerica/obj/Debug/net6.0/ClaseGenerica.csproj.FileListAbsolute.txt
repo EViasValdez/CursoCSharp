@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\bin\Debug\net6.0\ClaseGenerica.exe
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\bin\Debug\net6.0\ClaseGenerica.deps.json
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\bin\Debug\net6.0\ClaseGenerica.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\bin\Debug\net6.0\ClaseGenerica.dll
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\bin\Debug\net6.0\ClaseGenerica.pdb
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\ClaseGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\ClaseGenerica.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\ClaseGenerica.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\ClaseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\ClaseGenerica.dll
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\refint\ClaseGenerica.dll
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\ClaseGenerica.pdb
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\ClaseGenerica.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ClaseGenerica\ClaseGenerica\obj\Debug\net6.0\ref\ClaseGenerica.dll

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\bin\Debug\net6.0\EstructuraDoWhile.exe
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\bin\Debug\net6.0\EstructuraDoWhile.deps.json
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\bin\Debug\net6.0\EstructuraDoWhile.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\bin\Debug\net6.0\EstructuraDoWhile.dll
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\bin\Debug\net6.0\EstructuraDoWhile.pdb
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\EstructuraDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\EstructuraDoWhile.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\EstructuraDoWhile.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\EstructuraDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\EstructuraDoWhile.dll
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\refint\EstructuraDoWhile.dll
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\EstructuraDoWhile.pdb
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\EstructuraDoWhile.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\EstructuraDoWhile\EstructuraDoWhile\obj\Debug\net6.0\ref\EstructuraDoWhile.dll

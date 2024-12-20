@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\bin\Debug\net6.0\ModificadorPublic.exe
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\bin\Debug\net6.0\ModificadorPublic.deps.json
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\bin\Debug\net6.0\ModificadorPublic.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\bin\Debug\net6.0\ModificadorPublic.dll
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\bin\Debug\net6.0\ModificadorPublic.pdb
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\ModificadorPublic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\ModificadorPublic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\ModificadorPublic.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\ModificadorPublic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\ModificadorPublic.dll
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\refint\ModificadorPublic.dll
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\ModificadorPublic.pdb
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\ModificadorPublic.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ModificadorPublic\ModificadorPublic\obj\Debug\net6.0\ref\ModificadorPublic.dll

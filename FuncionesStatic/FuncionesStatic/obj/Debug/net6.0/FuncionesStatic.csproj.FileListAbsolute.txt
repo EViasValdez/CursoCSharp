@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\bin\Debug\net6.0\FuncionesStatic.exe
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\bin\Debug\net6.0\FuncionesStatic.deps.json
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\bin\Debug\net6.0\FuncionesStatic.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\bin\Debug\net6.0\FuncionesStatic.dll
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\bin\Debug\net6.0\FuncionesStatic.pdb
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\FuncionesStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\FuncionesStatic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\FuncionesStatic.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\FuncionesStatic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\FuncionesStatic.dll
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\refint\FuncionesStatic.dll
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\FuncionesStatic.pdb
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\FuncionesStatic.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FuncionesStatic\FuncionesStatic\obj\Debug\net6.0\ref\FuncionesStatic.dll

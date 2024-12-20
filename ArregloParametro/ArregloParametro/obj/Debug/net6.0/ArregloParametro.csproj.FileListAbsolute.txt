@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\bin\Debug\net6.0\ArregloParametro.exe
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\bin\Debug\net6.0\ArregloParametro.deps.json
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\bin\Debug\net6.0\ArregloParametro.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\bin\Debug\net6.0\ArregloParametro.dll
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\bin\Debug\net6.0\ArregloParametro.pdb
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\ArregloParametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\ArregloParametro.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\ArregloParametro.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\ArregloParametro.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\ArregloParametro.dll
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\refint\ArregloParametro.dll
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\ArregloParametro.pdb
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\ArregloParametro.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ArregloParametro\ArregloParametro\obj\Debug\net6.0\ref\ArregloParametro.dll

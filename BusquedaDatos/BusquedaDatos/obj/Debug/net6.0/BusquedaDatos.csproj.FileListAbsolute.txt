@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\bin\Debug\net6.0\BusquedaDatos.exe
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\bin\Debug\net6.0\BusquedaDatos.deps.json
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\bin\Debug\net6.0\BusquedaDatos.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\bin\Debug\net6.0\BusquedaDatos.dll
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\bin\Debug\net6.0\BusquedaDatos.pdb
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\BusquedaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\BusquedaDatos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\BusquedaDatos.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\BusquedaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\BusquedaDatos.dll
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\refint\BusquedaDatos.dll
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\BusquedaDatos.pdb
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\BusquedaDatos.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\BusquedaDatos\BusquedaDatos\obj\Debug\net6.0\ref\BusquedaDatos.dll

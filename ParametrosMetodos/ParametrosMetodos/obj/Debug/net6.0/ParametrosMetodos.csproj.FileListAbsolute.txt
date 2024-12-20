@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\bin\Debug\net6.0\ParametrosMetodos.exe
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\bin\Debug\net6.0\ParametrosMetodos.deps.json
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\bin\Debug\net6.0\ParametrosMetodos.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\bin\Debug\net6.0\ParametrosMetodos.dll
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\bin\Debug\net6.0\ParametrosMetodos.pdb
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\ParametrosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\ParametrosMetodos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\ParametrosMetodos.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\ParametrosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\ParametrosMetodos.dll
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\refint\ParametrosMetodos.dll
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\ParametrosMetodos.pdb
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\ParametrosMetodos.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ParametrosMetodos\ParametrosMetodos\obj\Debug\net6.0\ref\ParametrosMetodos.dll

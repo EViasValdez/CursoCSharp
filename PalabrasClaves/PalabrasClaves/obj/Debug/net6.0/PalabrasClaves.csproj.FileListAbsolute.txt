@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\bin\Debug\net6.0\PalabrasClaves.exe
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\bin\Debug\net6.0\PalabrasClaves.deps.json
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\bin\Debug\net6.0\PalabrasClaves.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\bin\Debug\net6.0\PalabrasClaves.dll
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\bin\Debug\net6.0\PalabrasClaves.pdb
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\PalabrasClaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\PalabrasClaves.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\PalabrasClaves.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\PalabrasClaves.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\PalabrasClaves.dll
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\refint\PalabrasClaves.dll
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\PalabrasClaves.pdb
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\PalabrasClaves.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\PalabrasClaves\PalabrasClaves\obj\Debug\net6.0\ref\PalabrasClaves.dll

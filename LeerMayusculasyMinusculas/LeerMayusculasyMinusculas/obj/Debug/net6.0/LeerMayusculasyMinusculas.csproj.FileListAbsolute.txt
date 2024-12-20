@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\bin\Debug\net6.0\LeerMayusculasyMinusculas.exe
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\bin\Debug\net6.0\LeerMayusculasyMinusculas.deps.json
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\bin\Debug\net6.0\LeerMayusculasyMinusculas.runtimeconfig.json
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\bin\Debug\net6.0\LeerMayusculasyMinusculas.dll
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\bin\Debug\net6.0\LeerMayusculasyMinusculas.pdb
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\LeerMayusculasyMinusculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\LeerMayusculasyMinusculas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\LeerMayusculasyMinusculas.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\LeerMayusculasyMinusculas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\LeerMayusculasyMinusculas.dll
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\refint\LeerMayusculasyMinusculas.dll
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\LeerMayusculasyMinusculas.pdb
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\LeerMayusculasyMinusculas.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\LeerMayusculasyMinusculas\LeerMayusculasyMinusculas\obj\Debug\net6.0\ref\LeerMayusculasyMinusculas.dll

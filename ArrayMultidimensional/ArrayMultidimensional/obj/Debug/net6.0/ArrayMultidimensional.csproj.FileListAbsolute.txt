@@ -1,0 +1,14 @@
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.exe
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.deps.json
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.runtimeconfig.json
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.dll
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.pdb
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.AssemblyInfoInputs.cache
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.AssemblyInfo.cs
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.csproj.CoreCompileInputs.cache
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.dll
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\refint\ArrayMultidimensional.dll
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.pdb
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.genruntimeconfig.cache
+E:\Cursos\C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ref\ArrayMultidimensional.dll

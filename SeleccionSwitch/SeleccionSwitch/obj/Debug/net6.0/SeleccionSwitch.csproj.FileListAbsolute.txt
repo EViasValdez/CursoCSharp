@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\bin\Debug\net6.0\SeleccionSwitch.exe
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\bin\Debug\net6.0\SeleccionSwitch.deps.json
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\bin\Debug\net6.0\SeleccionSwitch.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\bin\Debug\net6.0\SeleccionSwitch.dll
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\bin\Debug\net6.0\SeleccionSwitch.pdb
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\SeleccionSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\SeleccionSwitch.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\SeleccionSwitch.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\SeleccionSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\SeleccionSwitch.dll
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\refint\SeleccionSwitch.dll
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\SeleccionSwitch.pdb
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\SeleccionSwitch.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\SeleccionSwitch\SeleccionSwitch\obj\Debug\net6.0\ref\SeleccionSwitch.dll

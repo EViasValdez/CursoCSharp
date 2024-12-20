@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net6.0\ArgumentosOpcionales.exe
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net6.0\ArgumentosOpcionales.deps.json
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net6.0\ArgumentosOpcionales.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net6.0\ArgumentosOpcionales.dll
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net6.0\ArgumentosOpcionales.pdb
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\ArgumentosOpcionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\ArgumentosOpcionales.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\ArgumentosOpcionales.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\ArgumentosOpcionales.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\ArgumentosOpcionales.dll
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\refint\ArgumentosOpcionales.dll
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\ArgumentosOpcionales.pdb
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\ArgumentosOpcionales.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net6.0\ref\ArgumentosOpcionales.dll

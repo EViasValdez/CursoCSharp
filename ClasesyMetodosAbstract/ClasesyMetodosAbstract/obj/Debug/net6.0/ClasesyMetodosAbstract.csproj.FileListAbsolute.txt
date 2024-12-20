@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net6.0\ClasesyMetodosAbstract.exe
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net6.0\ClasesyMetodosAbstract.deps.json
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net6.0\ClasesyMetodosAbstract.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net6.0\ClasesyMetodosAbstract.dll
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net6.0\ClasesyMetodosAbstract.pdb
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\ClasesyMetodosAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\ClasesyMetodosAbstract.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\ClasesyMetodosAbstract.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\ClasesyMetodosAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\ClasesyMetodosAbstract.dll
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\refint\ClasesyMetodosAbstract.dll
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\ClasesyMetodosAbstract.pdb
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\ClasesyMetodosAbstract.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net6.0\ref\ClasesyMetodosAbstract.dll

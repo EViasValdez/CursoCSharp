@@ -1,0 +1,14 @@
+E:\Cursos\C#\ArrayInt\ArrayInt\bin\Debug\net6.0\ArrayInt.exe
+E:\Cursos\C#\ArrayInt\ArrayInt\bin\Debug\net6.0\ArrayInt.deps.json
+E:\Cursos\C#\ArrayInt\ArrayInt\bin\Debug\net6.0\ArrayInt.runtimeconfig.json
+E:\Cursos\C#\ArrayInt\ArrayInt\bin\Debug\net6.0\ArrayInt.dll
+E:\Cursos\C#\ArrayInt\ArrayInt\bin\Debug\net6.0\ArrayInt.pdb
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\ArrayInt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\ArrayInt.AssemblyInfoInputs.cache
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\ArrayInt.AssemblyInfo.cs
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\ArrayInt.csproj.CoreCompileInputs.cache
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\ArrayInt.dll
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\refint\ArrayInt.dll
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\ArrayInt.pdb
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\ArrayInt.genruntimeconfig.cache
+E:\Cursos\C#\ArrayInt\ArrayInt\obj\Debug\net6.0\ref\ArrayInt.dll
