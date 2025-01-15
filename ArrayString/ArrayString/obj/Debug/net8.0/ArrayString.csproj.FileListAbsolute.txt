@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\bin\Debug\net8.0\ArrayString.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\bin\Debug\net8.0\ArrayString.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\bin\Debug\net8.0\ArrayString.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\bin\Debug\net8.0\ArrayString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\bin\Debug\net8.0\ArrayString.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ArrayString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ArrayString.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ArrayString.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ArrayString.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ArrayString.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ArrayString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\refint\ArrayString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ArrayString.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ArrayString.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayString\ArrayString\obj\Debug\net8.0\ref\ArrayString.dll

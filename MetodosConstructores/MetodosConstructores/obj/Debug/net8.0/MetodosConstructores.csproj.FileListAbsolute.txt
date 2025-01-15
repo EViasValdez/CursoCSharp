@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\bin\Debug\net8.0\MetodosConstructores.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\bin\Debug\net8.0\MetodosConstructores.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\bin\Debug\net8.0\MetodosConstructores.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\bin\Debug\net8.0\MetodosConstructores.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\bin\Debug\net8.0\MetodosConstructores.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\MetodosConstructores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\MetodosConstructores.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\MetodosConstructores.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\MetodosConstructores.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\MetodosConstructores.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\MetodosConstructores.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\refint\MetodosConstructores.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\MetodosConstructores.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\MetodosConstructores.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosConstructores\MetodosConstructores\obj\Debug\net8.0\ref\MetodosConstructores.dll

@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\bin\Debug\net8.0\Funciones.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\bin\Debug\net8.0\Funciones.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\bin\Debug\net8.0\Funciones.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\bin\Debug\net8.0\Funciones.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\bin\Debug\net8.0\Funciones.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\Funciones.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\Funciones.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\Funciones.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\refint\Funciones.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\Funciones.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\Funciones.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Funciones\Funciones\obj\Debug\net8.0\ref\Funciones.dll

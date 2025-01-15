@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Cursos\\C#\\ExpresionesSwitch\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ExpresionesSwitch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72E2F9F4-570D-463C-8DD2-52CAC7DFFAF7}|ExpresionesSwitch\\ExpresionesSwitch.csproj|e:\\cursos\\c#\\expresionesswitch\\expresionesswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72E2F9F4-570D-463C-8DD2-52CAC7DFFAF7}|ExpresionesSwitch\\ExpresionesSwitch.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\expresionesswitch\\expresionesswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72E2F9F4-570D-463C-8DD2-52CAC7DFFAF7}|ExpresionesSwitch\\ExpresionesSwitch.csproj|solutionrelative:expresionesswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,10 +48,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Cursos\\C#\\ExpresionesSwitch\\ExpresionesSwitch\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ExpresionesSwitch\\ExpresionesSwitch\\Program.cs",
               "RelativeDocumentMoniker": "ExpresionesSwitch\\Program.cs",
-              "ToolTip": "E:\\Cursos\\C#\\ExpresionesSwitch\\ExpresionesSwitch\\Program.cs*",
-              "RelativeToolTip": "ExpresionesSwitch\\Program.cs*",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ExpresionesSwitch\\ExpresionesSwitch\\Program.cs",
+              "RelativeToolTip": "ExpresionesSwitch\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T16:47:32.33Z",

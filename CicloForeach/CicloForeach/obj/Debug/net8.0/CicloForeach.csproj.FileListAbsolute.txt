@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\bin\Debug\net8.0\CicloForeach.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\bin\Debug\net8.0\CicloForeach.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\bin\Debug\net8.0\CicloForeach.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\bin\Debug\net8.0\CicloForeach.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\bin\Debug\net8.0\CicloForeach.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\CicloForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\CicloForeach.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\CicloForeach.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\CicloForeach.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\CicloForeach.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\CicloForeach.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\refint\CicloForeach.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\CicloForeach.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\CicloForeach.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloForeach\CicloForeach\obj\Debug\net8.0\ref\CicloForeach.dll

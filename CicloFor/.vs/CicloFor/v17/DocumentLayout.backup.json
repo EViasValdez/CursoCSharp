@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\CicloFor\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\CicloFor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{645E5355-C8DE-4215-A64A-0D423668C69A}|CicloFor\\CicloFor.csproj|c:\\users\\lenovo\\source\\repos\\ciclofor\\ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{645E5355-C8DE-4215-A64A-0D423668C69A}|CicloFor\\CicloFor.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\ciclofor\\ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{645E5355-C8DE-4215-A64A-0D423668C69A}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CicloFor\\CicloFor\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\CicloFor\\CicloFor\\Program.cs",
               "RelativeDocumentMoniker": "CicloFor\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CicloFor\\CicloFor\\Program.cs*",
-              "RelativeToolTip": "CicloFor\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\CicloFor\\CicloFor\\Program.cs",
+              "RelativeToolTip": "CicloFor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T15:20:34.321Z",
               "EditorCaption": ""

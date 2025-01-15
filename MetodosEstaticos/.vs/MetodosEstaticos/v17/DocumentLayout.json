@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Cursos\\C#\\MetodosEstaticos\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2F9091BC-27C0-48CE-A0C2-737CECB65E14}|MetodosEstaticos\\MetodosEstaticos.csproj|e:\\cursos\\c#\\metodosestaticos\\metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F9091BC-27C0-48CE-A0C2-737CECB65E14}|MetodosEstaticos\\MetodosEstaticos.csproj|solutionrelative:metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\MetodosEstaticos\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Cursos\\C#\\MetodosEstaticos\\MetodosEstaticos\\Program.cs",
-              "RelativeDocumentMoniker": "MetodosEstaticos\\Program.cs",
-              "ToolTip": "E:\\Cursos\\C#\\MetodosEstaticos\\MetodosEstaticos\\Program.cs",
-              "RelativeToolTip": "MetodosEstaticos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T16:25:28.058Z",
-              "EditorCaption": ""
             }
           ]
         }

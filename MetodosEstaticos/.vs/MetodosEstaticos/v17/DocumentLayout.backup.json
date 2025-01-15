@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MetodosEstaticos\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\MetodosEstaticos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F9091BC-27C0-48CE-A0C2-737CECB65E14}|MetodosEstaticos\\MetodosEstaticos.csproj|c:\\users\\lenovo\\source\\repos\\metodosestaticos\\metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F9091BC-27C0-48CE-A0C2-737CECB65E14}|MetodosEstaticos\\MetodosEstaticos.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\metodosestaticos\\metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F9091BC-27C0-48CE-A0C2-737CECB65E14}|MetodosEstaticos\\MetodosEstaticos.csproj|solutionrelative:metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MetodosEstaticos\\MetodosEstaticos\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\MetodosEstaticos\\MetodosEstaticos\\Program.cs",
               "RelativeDocumentMoniker": "MetodosEstaticos\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MetodosEstaticos\\MetodosEstaticos\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\MetodosEstaticos\\MetodosEstaticos\\Program.cs",
               "RelativeToolTip": "MetodosEstaticos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T16:25:28.058Z",
               "EditorCaption": ""

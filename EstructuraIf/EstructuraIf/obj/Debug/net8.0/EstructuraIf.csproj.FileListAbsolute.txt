@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\bin\Debug\net8.0\EstructuraIf.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\bin\Debug\net8.0\EstructuraIf.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\bin\Debug\net8.0\EstructuraIf.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\bin\Debug\net8.0\EstructuraIf.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\bin\Debug\net8.0\EstructuraIf.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\EstructuraIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\EstructuraIf.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\EstructuraIf.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\EstructuraIf.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\EstructuraIf.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\EstructuraIf.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\refint\EstructuraIf.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\EstructuraIf.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\EstructuraIf.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\EstructuraIf\EstructuraIf\obj\Debug\net8.0\ref\EstructuraIf.dll

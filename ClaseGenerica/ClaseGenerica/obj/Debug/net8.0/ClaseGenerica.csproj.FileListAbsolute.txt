@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\bin\Debug\net8.0\ClaseGenerica.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\bin\Debug\net8.0\ClaseGenerica.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\bin\Debug\net8.0\ClaseGenerica.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\bin\Debug\net8.0\ClaseGenerica.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\bin\Debug\net8.0\ClaseGenerica.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ClaseGenerica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ClaseGenerica.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ClaseGenerica.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ClaseGenerica.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ClaseGenerica.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ClaseGenerica.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\refint\ClaseGenerica.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ClaseGenerica.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ClaseGenerica.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClaseGenerica\ClaseGenerica\obj\Debug\net8.0\ref\ClaseGenerica.dll

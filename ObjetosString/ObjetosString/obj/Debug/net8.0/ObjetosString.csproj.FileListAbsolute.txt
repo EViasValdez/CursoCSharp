@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\bin\Debug\net8.0\ObjetosString.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\bin\Debug\net8.0\ObjetosString.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\bin\Debug\net8.0\ObjetosString.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\bin\Debug\net8.0\ObjetosString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\bin\Debug\net8.0\ObjetosString.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ObjetosString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ObjetosString.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ObjetosString.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ObjetosString.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ObjetosString.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ObjetosString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\refint\ObjetosString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ObjetosString.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ObjetosString.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ObjetosString\ObjetosString\obj\Debug\net8.0\ref\ObjetosString.dll

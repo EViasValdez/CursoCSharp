@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net8.0\ArgumentosOpcionales.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net8.0\ArgumentosOpcionales.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net8.0\ArgumentosOpcionales.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net8.0\ArgumentosOpcionales.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\bin\Debug\net8.0\ArgumentosOpcionales.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ArgumentosOpcionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ArgumentosOpcionales.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ArgumentosOpcionales.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ArgumentosOpcionales.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ArgumentosOpcionales.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ArgumentosOpcionales.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\refint\ArgumentosOpcionales.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ArgumentosOpcionales.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ArgumentosOpcionales.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArgumentosOpcionales\ArgumentosOpcionales\obj\Debug\net8.0\ref\ArgumentosOpcionales.dll

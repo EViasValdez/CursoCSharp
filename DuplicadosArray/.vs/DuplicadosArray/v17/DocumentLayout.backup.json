@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\DuplicadosArray\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{984C48BC-DD4D-4A51-8FF0-B4C69CDB9B2F}|DuplicadosArray\\DuplicadosArray.csproj|c:\\users\\lenovo\\source\\repos\\duplicadosarray\\duplicadosarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984C48BC-DD4D-4A51-8FF0-B4C69CDB9B2F}|DuplicadosArray\\DuplicadosArray.csproj|solutionrelative:duplicadosarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\DuplicadosArray\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\DuplicadosArray\\DuplicadosArray\\Program.cs",
-              "RelativeDocumentMoniker": "DuplicadosArray\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\DuplicadosArray\\DuplicadosArray\\Program.cs*",
-              "RelativeToolTip": "DuplicadosArray\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T15:47:32.312Z",
-              "EditorCaption": ""
             }
           ]
         }

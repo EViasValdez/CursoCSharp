@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\VariablesEstaticas\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\VariablesEstaticas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E77BE81-6F39-4CB1-A7CC-70DE34CB78B7}|VariablesEstaticas\\VariablesEstaticas.csproj|c:\\users\\lenovo\\source\\repos\\variablesestaticas\\variablesestaticas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E77BE81-6F39-4CB1-A7CC-70DE34CB78B7}|VariablesEstaticas\\VariablesEstaticas.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\variablesestaticas\\variablesestaticas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E77BE81-6F39-4CB1-A7CC-70DE34CB78B7}|VariablesEstaticas\\VariablesEstaticas.csproj|solutionrelative:variablesestaticas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\VariablesEstaticas\\VariablesEstaticas\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\VariablesEstaticas\\VariablesEstaticas\\Program.cs",
               "RelativeDocumentMoniker": "VariablesEstaticas\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\VariablesEstaticas\\VariablesEstaticas\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\VariablesEstaticas\\VariablesEstaticas\\Program.cs",
               "RelativeToolTip": "VariablesEstaticas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T16:04:40.803Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\bin\Debug\net8.0\FormatoCadenas.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\bin\Debug\net8.0\FormatoCadenas.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\bin\Debug\net8.0\FormatoCadenas.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\bin\Debug\net8.0\FormatoCadenas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\bin\Debug\net8.0\FormatoCadenas.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\FormatoCadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\FormatoCadenas.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\FormatoCadenas.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\FormatoCadenas.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\FormatoCadenas.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\FormatoCadenas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\refint\FormatoCadenas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\FormatoCadenas.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\FormatoCadenas.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\FormatoCadenas\FormatoCadenas\obj\Debug\net8.0\ref\FormatoCadenas.dll

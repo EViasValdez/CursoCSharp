@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\bin\Debug\net8.0\ProyectoCreado.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\bin\Debug\net8.0\ProyectoCreado.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\bin\Debug\net8.0\ProyectoCreado.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\bin\Debug\net8.0\ProyectoCreado.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\bin\Debug\net8.0\ProyectoCreado.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ProyectoCreado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ProyectoCreado.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ProyectoCreado.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ProyectoCreado.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ProyectoCreado.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ProyectoCreado.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\refint\ProyectoCreado.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ProyectoCreado.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ProyectoCreado.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ProyectoCreado\ProyectoCreado\obj\Debug\net8.0\ref\ProyectoCreado.dll

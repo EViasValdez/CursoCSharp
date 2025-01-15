@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\bin\Debug\net8.0\BusquedaDatos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\bin\Debug\net8.0\BusquedaDatos.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\bin\Debug\net8.0\BusquedaDatos.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\bin\Debug\net8.0\BusquedaDatos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\bin\Debug\net8.0\BusquedaDatos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\BusquedaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\BusquedaDatos.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\BusquedaDatos.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\BusquedaDatos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\BusquedaDatos.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\BusquedaDatos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\refint\BusquedaDatos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\BusquedaDatos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\BusquedaDatos.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\BusquedaDatos\BusquedaDatos\obj\Debug\net8.0\ref\BusquedaDatos.dll

@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\bin\Debug\net8.0\DuplicadosArray.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\bin\Debug\net8.0\DuplicadosArray.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\bin\Debug\net8.0\DuplicadosArray.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\bin\Debug\net8.0\DuplicadosArray.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\bin\Debug\net8.0\DuplicadosArray.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\DuplicadosArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\DuplicadosArray.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\DuplicadosArray.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\DuplicadosArray.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\DuplicadosArray.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\DuplicadosArray.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\refint\DuplicadosArray.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\DuplicadosArray.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\DuplicadosArray.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\DuplicadosArray\DuplicadosArray\obj\Debug\net8.0\ref\DuplicadosArray.dll

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Cursos\\C#\\ArrayString\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ArrayString\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70F78E07-0029-40A9-84D9-9BBC9E314A93}|ArrayString\\ArrayString.csproj|e:\\cursos\\c#\\arraystring\\arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70F78E07-0029-40A9-84D9-9BBC9E314A93}|ArrayString\\ArrayString.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\arraystring\\arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F78E07-0029-40A9-84D9-9BBC9E314A93}|ArrayString\\ArrayString.csproj|solutionrelative:arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Cursos\\C#\\ArrayString\\ArrayString\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ArrayString\\ArrayString\\Program.cs",
               "RelativeDocumentMoniker": "ArrayString\\Program.cs",
-              "ToolTip": "E:\\Cursos\\C#\\ArrayString\\ArrayString\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ArrayString\\ArrayString\\Program.cs",
               "RelativeToolTip": "ArrayString\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

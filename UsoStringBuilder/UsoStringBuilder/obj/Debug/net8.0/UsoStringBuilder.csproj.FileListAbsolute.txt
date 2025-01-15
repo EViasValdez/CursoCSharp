@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\bin\Debug\net8.0\UsoStringBuilder.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\bin\Debug\net8.0\UsoStringBuilder.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\bin\Debug\net8.0\UsoStringBuilder.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\bin\Debug\net8.0\UsoStringBuilder.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\bin\Debug\net8.0\UsoStringBuilder.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\UsoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\UsoStringBuilder.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\UsoStringBuilder.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\UsoStringBuilder.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\UsoStringBuilder.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\UsoStringBuilder.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\refint\UsoStringBuilder.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\UsoStringBuilder.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\UsoStringBuilder.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\UsoStringBuilder\UsoStringBuilder\obj\Debug\net8.0\ref\UsoStringBuilder.dll

@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\bin\Debug\net8.0\SubcadenasString.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\bin\Debug\net8.0\SubcadenasString.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\bin\Debug\net8.0\SubcadenasString.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\bin\Debug\net8.0\SubcadenasString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\bin\Debug\net8.0\SubcadenasString.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\SubcadenasString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\SubcadenasString.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\SubcadenasString.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\SubcadenasString.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\SubcadenasString.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\SubcadenasString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\refint\SubcadenasString.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\SubcadenasString.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\SubcadenasString.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SubcadenasString\SubcadenasString\obj\Debug\net8.0\ref\SubcadenasString.dll

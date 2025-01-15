@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\bin\Debug\net8.0\TriangulodePascal.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\bin\Debug\net8.0\TriangulodePascal.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\bin\Debug\net8.0\TriangulodePascal.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\bin\Debug\net8.0\TriangulodePascal.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\bin\Debug\net8.0\TriangulodePascal.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\TriangulodePascal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\TriangulodePascal.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\TriangulodePascal.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\TriangulodePascal.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\TriangulodePascal.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\TriangulodePascal.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\refint\TriangulodePascal.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\TriangulodePascal.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\TriangulodePascal.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\TriangulodePascal\TriangulodePascal\obj\Debug\net8.0\ref\TriangulodePascal.dll

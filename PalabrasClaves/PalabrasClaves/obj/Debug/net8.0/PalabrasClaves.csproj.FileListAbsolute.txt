@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\bin\Debug\net8.0\PalabrasClaves.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\bin\Debug\net8.0\PalabrasClaves.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\bin\Debug\net8.0\PalabrasClaves.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\bin\Debug\net8.0\PalabrasClaves.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\bin\Debug\net8.0\PalabrasClaves.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\PalabrasClaves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\PalabrasClaves.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\PalabrasClaves.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\PalabrasClaves.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\PalabrasClaves.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\PalabrasClaves.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\refint\PalabrasClaves.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\PalabrasClaves.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\PalabrasClaves.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\PalabrasClaves\PalabrasClaves\obj\Debug\net8.0\ref\PalabrasClaves.dll

@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\bin\Debug\net8.0\ArrayInt.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\bin\Debug\net8.0\ArrayInt.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\bin\Debug\net8.0\ArrayInt.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\bin\Debug\net8.0\ArrayInt.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\bin\Debug\net8.0\ArrayInt.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ArrayInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ArrayInt.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ArrayInt.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ArrayInt.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ArrayInt.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ArrayInt.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\refint\ArrayInt.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ArrayInt.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ArrayInt.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayInt\ArrayInt\obj\Debug\net8.0\ref\ArrayInt.dll

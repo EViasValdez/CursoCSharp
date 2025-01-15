@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\FuncionesStatic\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3ECD76AD-A69B-48AC-AF8C-4B4F8712BF52}|FuncionesStatic\\FuncionesStatic.csproj|c:\\users\\lenovo\\source\\repos\\funcionesstatic\\funcionesstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ECD76AD-A69B-48AC-AF8C-4B4F8712BF52}|FuncionesStatic\\FuncionesStatic.csproj|solutionrelative:funcionesstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\FuncionesStatic\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FuncionesStatic\\FuncionesStatic\\Program.cs",
-              "RelativeDocumentMoniker": "FuncionesStatic\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FuncionesStatic\\FuncionesStatic\\Program.cs",
-              "RelativeToolTip": "FuncionesStatic\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T15:25:38.348Z",
-              "EditorCaption": ""
             }
           ]
         }

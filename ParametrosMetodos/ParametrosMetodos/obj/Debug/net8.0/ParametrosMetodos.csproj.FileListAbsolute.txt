@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\bin\Debug\net8.0\ParametrosMetodos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\bin\Debug\net8.0\ParametrosMetodos.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\bin\Debug\net8.0\ParametrosMetodos.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\bin\Debug\net8.0\ParametrosMetodos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\bin\Debug\net8.0\ParametrosMetodos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ParametrosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ParametrosMetodos.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ParametrosMetodos.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ParametrosMetodos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ParametrosMetodos.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ParametrosMetodos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\refint\ParametrosMetodos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ParametrosMetodos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ParametrosMetodos.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\net8.0\ref\ParametrosMetodos.dll

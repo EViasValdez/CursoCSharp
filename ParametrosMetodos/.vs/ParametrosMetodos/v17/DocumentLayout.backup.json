@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ParametrosMetodos\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ParametrosMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0D2EE67-621F-46CF-A747-9DEFA05CD251}|ParametrosMetodos\\ParametrosMetodos.csproj|c:\\users\\lenovo\\source\\repos\\parametrosmetodos\\parametrosmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0D2EE67-621F-46CF-A747-9DEFA05CD251}|ParametrosMetodos\\ParametrosMetodos.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\parametrosmetodos\\parametrosmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0D2EE67-621F-46CF-A747-9DEFA05CD251}|ParametrosMetodos\\ParametrosMetodos.csproj|solutionrelative:parametrosmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ParametrosMetodos\\ParametrosMetodos\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ParametrosMetodos\\ParametrosMetodos\\Program.cs",
               "RelativeDocumentMoniker": "ParametrosMetodos\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ParametrosMetodos\\ParametrosMetodos\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ParametrosMetodos\\ParametrosMetodos\\Program.cs",
               "RelativeToolTip": "ParametrosMetodos\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T02:18:56.07Z",
               "EditorCaption": ""

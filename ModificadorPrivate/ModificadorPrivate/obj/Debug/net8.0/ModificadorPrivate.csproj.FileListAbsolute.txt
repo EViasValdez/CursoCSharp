@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\bin\Debug\net8.0\ModificadorPrivate.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\bin\Debug\net8.0\ModificadorPrivate.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\bin\Debug\net8.0\ModificadorPrivate.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\bin\Debug\net8.0\ModificadorPrivate.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\bin\Debug\net8.0\ModificadorPrivate.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ModificadorPrivate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ModificadorPrivate.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ModificadorPrivate.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ModificadorPrivate.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ModificadorPrivate.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ModificadorPrivate.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\refint\ModificadorPrivate.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ModificadorPrivate.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ModificadorPrivate.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPrivate\ModificadorPrivate\obj\Debug\net8.0\ref\ModificadorPrivate.dll

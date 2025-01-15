@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ArgumentosOpcionales\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ArgumentosOpcionales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F2A2544-B138-40C8-9477-8B87B1B9F540}|ArgumentosOpcionales\\ArgumentosOpcionales.csproj|c:\\users\\lenovo\\source\\repos\\argumentosopcionales\\argumentosopcionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F2A2544-B138-40C8-9477-8B87B1B9F540}|ArgumentosOpcionales\\ArgumentosOpcionales.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\argumentosopcionales\\argumentosopcionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F2A2544-B138-40C8-9477-8B87B1B9F540}|ArgumentosOpcionales\\ArgumentosOpcionales.csproj|solutionrelative:argumentosopcionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ArgumentosOpcionales\\ArgumentosOpcionales\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ArgumentosOpcionales\\ArgumentosOpcionales\\Program.cs",
               "RelativeDocumentMoniker": "ArgumentosOpcionales\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ArgumentosOpcionales\\ArgumentosOpcionales\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ArgumentosOpcionales\\ArgumentosOpcionales\\Program.cs",
               "RelativeToolTip": "ArgumentosOpcionales\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

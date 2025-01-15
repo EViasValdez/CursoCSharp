@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ClasesyMetodosAbstract\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClasesyMetodosAbstract\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|c:\\users\\lenovo\\source\\repos\\clasesymetodosabstract\\clasesymetodosabstract\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\clasesymetodosabstract\\clasesymetodosabstract\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|solutionrelative:clasesymetodosabstract\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|c:\\users\\lenovo\\source\\repos\\clasesymetodosabstract\\clasesymetodosabstract\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|solutionrelative:clasesymetodosabstract\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\clasesymetodosabstract\\clasesymetodosabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|solutionrelative:clasesymetodosabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|c:\\users\\lenovo\\source\\repos\\clasesymetodosabstract\\clasesymetodosabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|solutionrelative:clasesymetodosabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\clasesymetodosabstract\\clasesymetodosabstract\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F8AA5-C0AD-4AD8-A062-DC7705AA1AAD}|ClasesyMetodosAbstract\\ClasesyMetodosAbstract.csproj|solutionrelative:clasesymetodosabstract\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,40 +56,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Menu.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Menu.cs",
               "RelativeDocumentMoniker": "ClasesyMetodosAbstract\\Menu.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Menu.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Menu.cs",
               "RelativeToolTip": "ClasesyMetodosAbstract\\Menu.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T01:07:47.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Principal.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Principal.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Principal.cs",
               "RelativeDocumentMoniker": "ClasesyMetodosAbstract\\Principal.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Principal.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Principal.cs",
               "RelativeToolTip": "ClasesyMetodosAbstract\\Principal.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:07:29.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T01:07:29.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Program.cs",
               "RelativeDocumentMoniker": "ClasesyMetodosAbstract\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClasesyMetodosAbstract\\ClasesyMetodosAbstract\\Program.cs",
               "RelativeToolTip": "ClasesyMetodosAbstract\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:06:59.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T01:06:59.378Z"
             }
           ]
         }

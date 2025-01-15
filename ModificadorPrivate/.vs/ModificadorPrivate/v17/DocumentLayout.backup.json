@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ModificadorPrivate\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ModificadorPrivate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B469FC51-E95B-4E36-B9C1-A80D7366E1E7}|ModificadorPrivate\\ModificadorPrivate.csproj|c:\\users\\lenovo\\source\\repos\\modificadorprivate\\modificadorprivate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B469FC51-E95B-4E36-B9C1-A80D7366E1E7}|ModificadorPrivate\\ModificadorPrivate.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\modificadorprivate\\modificadorprivate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B469FC51-E95B-4E36-B9C1-A80D7366E1E7}|ModificadorPrivate\\ModificadorPrivate.csproj|solutionrelative:modificadorprivate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ModificadorPrivate\\ModificadorPrivate\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ModificadorPrivate\\ModificadorPrivate\\Program.cs",
               "RelativeDocumentMoniker": "ModificadorPrivate\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ModificadorPrivate\\ModificadorPrivate\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ModificadorPrivate\\ModificadorPrivate\\Program.cs",
               "RelativeToolTip": "ModificadorPrivate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T01:09:00.346Z",
               "EditorCaption": ""

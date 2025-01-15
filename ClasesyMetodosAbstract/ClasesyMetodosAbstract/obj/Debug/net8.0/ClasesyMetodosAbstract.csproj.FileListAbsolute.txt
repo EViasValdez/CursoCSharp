@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net8.0\ClasesyMetodosAbstract.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net8.0\ClasesyMetodosAbstract.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net8.0\ClasesyMetodosAbstract.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net8.0\ClasesyMetodosAbstract.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\bin\Debug\net8.0\ClasesyMetodosAbstract.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ClasesyMetodosAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ClasesyMetodosAbstract.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ClasesyMetodosAbstract.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ClasesyMetodosAbstract.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ClasesyMetodosAbstract.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ClasesyMetodosAbstract.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\refint\ClasesyMetodosAbstract.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ClasesyMetodosAbstract.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ClasesyMetodosAbstract.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ClasesyMetodosAbstract\ClasesyMetodosAbstract\obj\Debug\net8.0\ref\ClasesyMetodosAbstract.dll

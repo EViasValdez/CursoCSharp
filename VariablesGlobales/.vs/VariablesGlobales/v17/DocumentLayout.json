@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\VariablesGlobales\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\VariablesGlobales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EE78437-97EA-4883-9F74-A468526ADD4C}|VariablesGlobales\\VariablesGlobales.csproj|c:\\users\\lenovo\\source\\repos\\variablesglobales\\variablesglobales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EE78437-97EA-4883-9F74-A468526ADD4C}|VariablesGlobales\\VariablesGlobales.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\variablesglobales\\variablesglobales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE78437-97EA-4883-9F74-A468526ADD4C}|VariablesGlobales\\VariablesGlobales.csproj|solutionrelative:variablesglobales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\VariablesGlobales\\VariablesGlobales\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\VariablesGlobales\\VariablesGlobales\\Program.cs",
               "RelativeDocumentMoniker": "VariablesGlobales\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\VariablesGlobales\\VariablesGlobales\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\VariablesGlobales\\VariablesGlobales\\Program.cs",
               "RelativeToolTip": "VariablesGlobales\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

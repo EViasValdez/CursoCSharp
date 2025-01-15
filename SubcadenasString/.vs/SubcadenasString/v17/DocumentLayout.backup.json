@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\SubcadenasString\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\SubcadenasString\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6FC7FF8-8E41-40D3-81C9-CF09C221E73C}|SubcadenasString\\SubcadenasString.csproj|c:\\users\\lenovo\\source\\repos\\subcadenasstring\\subcadenasstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6FC7FF8-8E41-40D3-81C9-CF09C221E73C}|SubcadenasString\\SubcadenasString.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\subcadenasstring\\subcadenasstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6FC7FF8-8E41-40D3-81C9-CF09C221E73C}|SubcadenasString\\SubcadenasString.csproj|solutionrelative:subcadenasstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SubcadenasString\\SubcadenasString\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\SubcadenasString\\SubcadenasString\\Program.cs",
               "RelativeDocumentMoniker": "SubcadenasString\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SubcadenasString\\SubcadenasString\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\SubcadenasString\\SubcadenasString\\Program.cs",
               "RelativeToolTip": "SubcadenasString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T15:26:50.866Z",
               "EditorCaption": ""

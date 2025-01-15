@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\bin\Debug\net8.0\VariablesGlobales.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\bin\Debug\net8.0\VariablesGlobales.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\bin\Debug\net8.0\VariablesGlobales.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\bin\Debug\net8.0\VariablesGlobales.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\bin\Debug\net8.0\VariablesGlobales.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\VariablesGlobales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\VariablesGlobales.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\VariablesGlobales.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\VariablesGlobales.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\VariablesGlobales.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\VariablesGlobales.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\refint\VariablesGlobales.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\VariablesGlobales.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\VariablesGlobales.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesGlobales\VariablesGlobales\obj\Debug\net8.0\ref\VariablesGlobales.dll

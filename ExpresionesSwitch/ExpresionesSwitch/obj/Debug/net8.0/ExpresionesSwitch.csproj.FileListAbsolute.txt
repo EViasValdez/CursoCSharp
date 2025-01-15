@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\bin\Debug\net8.0\ExpresionesSwitch.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\bin\Debug\net8.0\ExpresionesSwitch.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\bin\Debug\net8.0\ExpresionesSwitch.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\bin\Debug\net8.0\ExpresionesSwitch.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\bin\Debug\net8.0\ExpresionesSwitch.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ExpresionesSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ExpresionesSwitch.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ExpresionesSwitch.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ExpresionesSwitch.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ExpresionesSwitch.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ExpresionesSwitch.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\refint\ExpresionesSwitch.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ExpresionesSwitch.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ExpresionesSwitch.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ExpresionesSwitch\ExpresionesSwitch\obj\Debug\net8.0\ref\ExpresionesSwitch.dll

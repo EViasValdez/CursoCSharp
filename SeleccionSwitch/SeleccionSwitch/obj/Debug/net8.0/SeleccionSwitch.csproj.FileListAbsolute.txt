@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\bin\Debug\net8.0\SeleccionSwitch.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\bin\Debug\net8.0\SeleccionSwitch.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\bin\Debug\net8.0\SeleccionSwitch.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\bin\Debug\net8.0\SeleccionSwitch.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\bin\Debug\net8.0\SeleccionSwitch.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\SeleccionSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\SeleccionSwitch.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\SeleccionSwitch.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\SeleccionSwitch.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\SeleccionSwitch.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\SeleccionSwitch.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\refint\SeleccionSwitch.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\SeleccionSwitch.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\SeleccionSwitch.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\SeleccionSwitch\SeleccionSwitch\obj\Debug\net8.0\ref\SeleccionSwitch.dll

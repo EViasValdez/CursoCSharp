@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\bin\Debug\net8.0\OperadoresIgualdad.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\bin\Debug\net8.0\OperadoresIgualdad.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\bin\Debug\net8.0\OperadoresIgualdad.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\bin\Debug\net8.0\OperadoresIgualdad.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\bin\Debug\net8.0\OperadoresIgualdad.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\OperadoresIgualdad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\OperadoresIgualdad.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\OperadoresIgualdad.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\OperadoresIgualdad.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\OperadoresIgualdad.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\OperadoresIgualdad.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\refint\OperadoresIgualdad.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\OperadoresIgualdad.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\OperadoresIgualdad.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\net8.0\ref\OperadoresIgualdad.dll

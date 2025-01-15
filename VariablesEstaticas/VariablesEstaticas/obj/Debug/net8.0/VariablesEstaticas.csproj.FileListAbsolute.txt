@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\bin\Debug\net8.0\VariablesEstaticas.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\bin\Debug\net8.0\VariablesEstaticas.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\bin\Debug\net8.0\VariablesEstaticas.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\bin\Debug\net8.0\VariablesEstaticas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\bin\Debug\net8.0\VariablesEstaticas.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\VariablesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\VariablesEstaticas.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\VariablesEstaticas.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\VariablesEstaticas.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\VariablesEstaticas.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\VariablesEstaticas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\refint\VariablesEstaticas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\VariablesEstaticas.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\VariablesEstaticas.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\VariablesEstaticas\VariablesEstaticas\obj\Debug\net8.0\ref\VariablesEstaticas.dll

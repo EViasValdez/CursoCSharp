@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\PalabrasClaves\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\PalabrasClaves\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C9C13EF-227C-49C7-833E-DBB57FEE6EA9}|PalabrasClaves\\PalabrasClaves.csproj|c:\\users\\lenovo\\source\\repos\\palabrasclaves\\palabrasclaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C9C13EF-227C-49C7-833E-DBB57FEE6EA9}|PalabrasClaves\\PalabrasClaves.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\palabrasclaves\\palabrasclaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C9C13EF-227C-49C7-833E-DBB57FEE6EA9}|PalabrasClaves\\PalabrasClaves.csproj|solutionrelative:palabrasclaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PalabrasClaves\\PalabrasClaves\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\PalabrasClaves\\PalabrasClaves\\Program.cs",
               "RelativeDocumentMoniker": "PalabrasClaves\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PalabrasClaves\\PalabrasClaves\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\PalabrasClaves\\PalabrasClaves\\Program.cs",
               "RelativeToolTip": "PalabrasClaves\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

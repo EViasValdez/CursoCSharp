@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\refint\ArrayMultidimensional.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net8.0\ref\ArrayMultidimensional.dll

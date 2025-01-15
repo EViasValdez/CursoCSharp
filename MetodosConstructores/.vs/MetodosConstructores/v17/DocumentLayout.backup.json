@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MetodosConstructores\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\MetodosConstructores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B86CA3FC-AB6D-4D59-AD57-7B2D3987DF9A}|MetodosConstructores\\MetodosConstructores.csproj|c:\\users\\lenovo\\source\\repos\\metodosconstructores\\metodosconstructores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B86CA3FC-AB6D-4D59-AD57-7B2D3987DF9A}|MetodosConstructores\\MetodosConstructores.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\metodosconstructores\\metodosconstructores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B86CA3FC-AB6D-4D59-AD57-7B2D3987DF9A}|MetodosConstructores\\MetodosConstructores.csproj|solutionrelative:metodosconstructores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MetodosConstructores\\MetodosConstructores\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\MetodosConstructores\\MetodosConstructores\\Program.cs",
               "RelativeDocumentMoniker": "MetodosConstructores\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MetodosConstructores\\MetodosConstructores\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\MetodosConstructores\\MetodosConstructores\\Program.cs",
               "RelativeToolTip": "MetodosConstructores\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T01:11:08.041Z",
               "EditorCaption": ""

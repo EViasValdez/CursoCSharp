@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Cursos\\C#\\ObjetosString\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DBFA0A68-3A71-4773-8793-0A96DB168E48}|ObjetosString\\ObjetosString.csproj|e:\\cursos\\c#\\objetosstring\\objetosstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBFA0A68-3A71-4773-8793-0A96DB168E48}|ObjetosString\\ObjetosString.csproj|solutionrelative:objetosstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ObjetosString\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Cursos\\C#\\ObjetosString\\ObjetosString\\Program.cs",
-              "RelativeDocumentMoniker": "ObjetosString\\Program.cs",
-              "ToolTip": "E:\\Cursos\\C#\\ObjetosString\\ObjetosString\\Program.cs",
-              "RelativeToolTip": "ObjetosString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T16:33:08.555Z",
-              "EditorCaption": ""
             }
           ]
         }

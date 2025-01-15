@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\bin\Debug\net8.0\ListasEnlazadas.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\bin\Debug\net8.0\ListasEnlazadas.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\bin\Debug\net8.0\ListasEnlazadas.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\bin\Debug\net8.0\ListasEnlazadas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\bin\Debug\net8.0\ListasEnlazadas.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ListasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ListasEnlazadas.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ListasEnlazadas.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ListasEnlazadas.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ListasEnlazadas.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ListasEnlazadas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\refint\ListasEnlazadas.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ListasEnlazadas.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ListasEnlazadas.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ListasEnlazadas\ListasEnlazadas\obj\Debug\net8.0\ref\ListasEnlazadas.dll

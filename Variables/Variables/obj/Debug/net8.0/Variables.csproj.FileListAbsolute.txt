@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\bin\Debug\net8.0\Variables.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\bin\Debug\net8.0\Variables.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\bin\Debug\net8.0\Variables.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\bin\Debug\net8.0\Variables.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\Variables.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\Variables.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\Variables\Variables\obj\Debug\net8.0\ref\Variables.dll

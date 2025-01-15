@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\bin\Debug\net8.0\OpeadoresdeAsignacion.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\bin\Debug\net8.0\OpeadoresdeAsignacion.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\bin\Debug\net8.0\OpeadoresdeAsignacion.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\bin\Debug\net8.0\OpeadoresdeAsignacion.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\bin\Debug\net8.0\OpeadoresdeAsignacion.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\OpeadoresdeAsignacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\OpeadoresdeAsignacion.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\OpeadoresdeAsignacion.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\OpeadoresdeAsignacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\OpeadoresdeAsignacion.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\OpeadoresdeAsignacion.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\refint\OpeadoresdeAsignacion.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\OpeadoresdeAsignacion.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\OpeadoresdeAsignacion.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\OpeadoresdeAsignacion\OpeadoresdeAsignacion\obj\Debug\net8.0\ref\OpeadoresdeAsignacion.dll

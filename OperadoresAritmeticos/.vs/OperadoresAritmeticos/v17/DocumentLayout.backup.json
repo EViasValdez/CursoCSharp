@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\OperadoresAritmeticos\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\OperadoresAritmeticos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39E26D41-5590-4F58-AB7D-3798541B1CBF}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|c:\\users\\lenovo\\source\\repos\\operadoresaritmeticos\\operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39E26D41-5590-4F58-AB7D-3798541B1CBF}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\operadoresaritmeticos\\operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39E26D41-5590-4F58-AB7D-3798541B1CBF}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OperadoresAritmeticos\\OperadoresAritmeticos\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\OperadoresAritmeticos\\OperadoresAritmeticos\\Program.cs",
               "RelativeDocumentMoniker": "OperadoresAritmeticos\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OperadoresAritmeticos\\OperadoresAritmeticos\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\OperadoresAritmeticos\\OperadoresAritmeticos\\Program.cs",
               "RelativeToolTip": "OperadoresAritmeticos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

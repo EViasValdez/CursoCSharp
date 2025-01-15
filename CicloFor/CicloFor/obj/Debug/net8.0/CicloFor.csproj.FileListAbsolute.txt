@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\bin\Debug\net8.0\CicloFor.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\bin\Debug\net8.0\CicloFor.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\bin\Debug\net8.0\CicloFor.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\bin\Debug\net8.0\CicloFor.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\bin\Debug\net8.0\CicloFor.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\CicloFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\CicloFor.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\CicloFor.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\CicloFor.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\CicloFor.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\CicloFor.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\refint\CicloFor.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\CicloFor.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\CicloFor.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\CicloFor\CicloFor\obj\Debug\net8.0\ref\CicloFor.dll

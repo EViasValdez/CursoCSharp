@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\refint\MetodosEstaticos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\ref\MetodosEstaticos.dll

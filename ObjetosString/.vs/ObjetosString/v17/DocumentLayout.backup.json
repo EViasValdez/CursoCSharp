@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Cursos\\C#\\ObjetosString\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ObjetosString\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBFA0A68-3A71-4773-8793-0A96DB168E48}|ObjetosString\\ObjetosString.csproj|e:\\cursos\\c#\\objetosstring\\objetosstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBFA0A68-3A71-4773-8793-0A96DB168E48}|ObjetosString\\ObjetosString.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\objetosstring\\objetosstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBFA0A68-3A71-4773-8793-0A96DB168E48}|ObjetosString\\ObjetosString.csproj|solutionrelative:objetosstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Cursos\\C#\\ObjetosString\\ObjetosString\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ObjetosString\\ObjetosString\\Program.cs",
               "RelativeDocumentMoniker": "ObjetosString\\Program.cs",
-              "ToolTip": "E:\\Cursos\\C#\\ObjetosString\\ObjetosString\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ObjetosString\\ObjetosString\\Program.cs",
               "RelativeToolTip": "ObjetosString\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T16:33:08.555Z",
               "EditorCaption": ""

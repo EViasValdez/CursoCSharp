@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\BusquedaDatos\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\BusquedaDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|c:\\users\\lenovo\\source\\repos\\busquedadatos\\busquedadatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\busquedadatos\\busquedadatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|solutionrelative:busquedadatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|c:\\users\\lenovo\\source\\repos\\busquedadatos\\busquedadatos\\escuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|solutionrelative:busquedadatos\\escuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|c:\\users\\lenovo\\source\\repos\\busquedadatos\\busquedadatos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|solutionrelative:busquedadatos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,37 +46,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Escuela.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BusquedaDatos\\BusquedaDatos\\Escuela.cs",
-              "RelativeDocumentMoniker": "BusquedaDatos\\Escuela.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BusquedaDatos\\BusquedaDatos\\Escuela.cs",
-              "RelativeToolTip": "BusquedaDatos\\Escuela.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:52:04.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BusquedaDatos\\BusquedaDatos\\Estudiante.cs",
-              "RelativeDocumentMoniker": "BusquedaDatos\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BusquedaDatos\\BusquedaDatos\\Estudiante.cs",
-              "RelativeToolTip": "BusquedaDatos\\Estudiante.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:12:40.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BusquedaDatos\\BusquedaDatos\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\BusquedaDatos\\BusquedaDatos\\Program.cs",
               "RelativeDocumentMoniker": "BusquedaDatos\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BusquedaDatos\\BusquedaDatos\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\BusquedaDatos\\BusquedaDatos\\Program.cs",
               "RelativeToolTip": "BusquedaDatos\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

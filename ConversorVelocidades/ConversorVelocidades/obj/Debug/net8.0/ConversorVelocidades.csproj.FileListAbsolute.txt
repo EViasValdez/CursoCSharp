@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\bin\Debug\net8.0\ConversorVelocidades.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\bin\Debug\net8.0\ConversorVelocidades.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\bin\Debug\net8.0\ConversorVelocidades.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\bin\Debug\net8.0\ConversorVelocidades.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\bin\Debug\net8.0\ConversorVelocidades.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ConversorVelocidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ConversorVelocidades.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ConversorVelocidades.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ConversorVelocidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ConversorVelocidades.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ConversorVelocidades.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\refint\ConversorVelocidades.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ConversorVelocidades.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ConversorVelocidades.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ConversorVelocidades\ConversorVelocidades\obj\Debug\net8.0\ref\ConversorVelocidades.dll

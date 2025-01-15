@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Variables\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\Variables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2117AF64-B306-45B3-B4E6-E776E40B6AC2}|Variables\\Variables.csproj|c:\\users\\lenovo\\source\\repos\\variables\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2117AF64-B306-45B3-B4E6-E776E40B6AC2}|Variables\\Variables.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\variables\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2117AF64-B306-45B3-B4E6-E776E40B6AC2}|Variables\\Variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Variables\\Variables\\Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\Variables\\Variables\\Program.cs",
               "RelativeDocumentMoniker": "Variables\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Variables\\Variables\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\Variables\\Variables\\Program.cs",
               "RelativeToolTip": "Variables\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAywBgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T03:00:22.26Z",
               "EditorCaption": ""

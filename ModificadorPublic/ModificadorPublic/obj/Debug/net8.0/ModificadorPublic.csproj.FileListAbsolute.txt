@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\bin\Debug\net8.0\ModificadorPublic.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\bin\Debug\net8.0\ModificadorPublic.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\bin\Debug\net8.0\ModificadorPublic.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\bin\Debug\net8.0\ModificadorPublic.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\bin\Debug\net8.0\ModificadorPublic.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ModificadorPublic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ModificadorPublic.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ModificadorPublic.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ModificadorPublic.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ModificadorPublic.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ModificadorPublic.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\refint\ModificadorPublic.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ModificadorPublic.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ModificadorPublic.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ModificadorPublic\ModificadorPublic\obj\Debug\net8.0\ref\ModificadorPublic.dll

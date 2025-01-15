@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\bin\Debug\net8.0\ArregloParametro.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\bin\Debug\net8.0\ArregloParametro.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\bin\Debug\net8.0\ArregloParametro.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\bin\Debug\net8.0\ArregloParametro.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\bin\Debug\net8.0\ArregloParametro.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ArregloParametro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ArregloParametro.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ArregloParametro.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ArregloParametro.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ArregloParametro.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ArregloParametro.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\refint\ArregloParametro.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ArregloParametro.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ArregloParametro.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\CursoCSharp\ArregloParametro\ArregloParametro\obj\Debug\net8.0\ref\ArregloParametro.dll
