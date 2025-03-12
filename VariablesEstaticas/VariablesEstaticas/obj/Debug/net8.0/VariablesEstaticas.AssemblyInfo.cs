@@ -14,9 +14,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VariablesEstaticas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dce4484b43700d8dbfad2d6fe567a4707c6a2122")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76628605cacbefcd85527cf333a5868813a2e23a")]
 [assembly: System.Reflection.AssemblyProductAttribute("VariablesEstaticas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VariablesEstaticas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
+
