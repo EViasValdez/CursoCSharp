@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\BusquedaDatos\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\busquedadatos\\busquedadatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D86FE8-BED0-4129-9E25-3939F020584E}|BusquedaDatos\\BusquedaDatos.csproj|solutionrelative:busquedadatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\BusquedaDatos\\BusquedaDatos\\Program.cs",
-              "RelativeDocumentMoniker": "BusquedaDatos\\Program.cs",
-              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\BusquedaDatos\\BusquedaDatos\\Program.cs",
-              "RelativeToolTip": "BusquedaDatos\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:10:42.222Z",
-              "EditorCaption": ""
             }
           ]
         }

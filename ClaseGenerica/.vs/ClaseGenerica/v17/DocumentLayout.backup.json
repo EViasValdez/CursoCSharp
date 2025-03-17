@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClaseGenerica\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CA17361B-22E9-4C08-8B70-97727C40E8FA}|ClaseGenerica\\ClaseGenerica.csproj|d:\\usuarios\\eduardo\\documentos\\github\\cursocsharp\\clasegenerica\\clasegenerica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA17361B-22E9-4C08-8B70-97727C40E8FA}|ClaseGenerica\\ClaseGenerica.csproj|solutionrelative:clasegenerica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClaseGenerica\\ClaseGenerica\\Program.cs",
-              "RelativeDocumentMoniker": "ClaseGenerica\\Program.cs",
-              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\CursoCSharp\\ClaseGenerica\\ClaseGenerica\\Program.cs",
-              "RelativeToolTip": "ClaseGenerica\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T02:54:45.792Z",
-              "EditorCaption": ""
             }
           ]
         }
