@@ -6,6 +6,7 @@
         {
             var Dato = new Conversor();
             var Dato2 = new Conversor();
+            
             Dato.Velocidad = 3.0;
         }
         class Conversor
