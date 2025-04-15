@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CicloForeach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f4b4fb97cfedd79f48afd1dcefc1f7ce09970d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48e7a902c3dcbb12c0346a926d7bcb2453628928")]
 [assembly: System.Reflection.AssemblyProductAttribute("CicloForeach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CicloForeach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
