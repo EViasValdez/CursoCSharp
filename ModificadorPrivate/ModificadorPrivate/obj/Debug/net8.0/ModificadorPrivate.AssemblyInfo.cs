@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModificadorPrivate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f4b4fb97cfedd79f48afd1dcefc1f7ce09970d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f29eef544dd5af62ac2a7e43f1679e9dcea50b42")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModificadorPrivate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModificadorPrivate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
