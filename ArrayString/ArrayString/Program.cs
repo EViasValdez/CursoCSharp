@@ -9,6 +9,7 @@
             Cadenas[1] = "B";
             Cadenas[2] = "C";
             Cadenas[3] = "D";
+            
             string[] Nombre = { "E", "F", "G", "H" };
 
             Console.WriteLine(Cadenas[0] + " " + Cadenas[1] + " " + Cadenas[2] + " " + Cadenas[3]);

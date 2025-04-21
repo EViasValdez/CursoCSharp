@@ -29,7 +29,8 @@
                 }
                 Count++;
                 Console.Write(Count);
-            } while (Valor);
+            }
+            while (Valor);
         }
     }
 }
