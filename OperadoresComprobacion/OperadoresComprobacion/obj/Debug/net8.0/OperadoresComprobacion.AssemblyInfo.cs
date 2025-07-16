@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperadoresComprobacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d2f6e40bc585e84ca223df6546ccb0c2bda731")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b130fe61d2f8fbd5738d8b34e5139b62f987672a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OperadoresComprobacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperadoresComprobacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
