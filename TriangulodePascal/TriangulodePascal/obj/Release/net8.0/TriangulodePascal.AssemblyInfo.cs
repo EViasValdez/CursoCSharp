@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TriangulodePascal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f4b4fb97cfedd79f48afd1dcefc1f7ce09970d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b9bc4ed5ed22b00d4b5ac24625307d8a70ad8af")]
 [assembly: System.Reflection.AssemblyProductAttribute("TriangulodePascal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TriangulodePascal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

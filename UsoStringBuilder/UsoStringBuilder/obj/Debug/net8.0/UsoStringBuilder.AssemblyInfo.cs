@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsoStringBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b130fe61d2f8fbd5738d8b34e5139b62f987672a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b9bc4ed5ed22b00d4b5ac24625307d8a70ad8af")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsoStringBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsoStringBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
