@@ -1,7 +1,7 @@
 # CursoCSharp
 
 <!----Descripción---->
-Informacion completa por ser escrita.
+Incluye un programa el cual seria completo con lo mostrado en el curso.
 <!----Separador de la descripción---->
 
 <!----Detalles---->
