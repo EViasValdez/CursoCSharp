@@ -9,6 +9,7 @@ namespace Variables
             // Enteros
             int Numero1 = 2;
             int Numero2 = Convert.ToInt16("4");
+            
             Console.WriteLine(Numero1);
             Console.WriteLine(Numero2);
 
