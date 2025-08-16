@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayInt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b9bc4ed5ed22b00d4b5ac24625307d8a70ad8af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5e78f12b4f86af458f3dce5fafc2b35c08e7f89")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayInt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayInt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
