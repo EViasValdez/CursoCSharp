@@ -6,30 +6,30 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            // Enteros
+            // Enteros.
             int Numero1 = 2;
             int Numero2 = Convert.ToInt16("4");
             
             Console.WriteLine(Numero1);
             Console.WriteLine(Numero2);
 
-            // Cadena
+            // Cadena.
             String Cadena = "as";
             Console.WriteLine(Cadena);
 
-            // Double
+            // Double.
             double Doble = 2.0;
             Console.WriteLine(Doble);
 
-            // Decimal
+            // Decimal.
             decimal Decimal = 4.0M;
             Console.WriteLine(Decimal);
 
-            // Boolean
+            // Boolean.
             bool Booleano = true;
             Console.WriteLine(Booleano);
 
-            // Char
+            // Char.
             char Letra = 'A';
             Console.WriteLine(Letra);
         }
