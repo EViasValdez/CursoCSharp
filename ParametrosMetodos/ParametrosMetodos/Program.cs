@@ -6,6 +6,7 @@
         {
             int Edad = 20;
             int Dato = 8;
+            
             new Program().Metodo(Dato);
         }
         private void Metodo(in int Valor)

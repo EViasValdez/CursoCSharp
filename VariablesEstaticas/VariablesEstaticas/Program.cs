@@ -5,7 +5,7 @@
         static void Main()
         {
             var Dato = new Conversor();
-            var Dato2 = new Conversor();
+            // var Dato2 = new Conversor();
             
             Dato.Velocidad = 3.0;
         }
