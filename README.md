@@ -5,4 +5,5 @@ En este repositorio estan incluidas las actividades que se realizaron durante un
 <!----Separador de la descripción---->
 
 <!----Detalles---->
+Detalles por ser puesto.
 <!----Separador de los detalles---->
