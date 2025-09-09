@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuncionesStatic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+414381b6280152d86fe5e6e74e60c93a03b3b916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f6022b2e783b585a9fff0652d44615286beafe0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuncionesStatic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuncionesStatic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
