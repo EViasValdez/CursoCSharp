@@ -12,7 +12,7 @@
                 Console.WriteLine("Resultado {0}", Nombre[i] + ", Edad " + Edad[i]);
             }
 
-            Console.WriteLine("======================================================================");
+            Console.WriteLine("========================================");
 
             foreach (var Objeto in Nombre)
             {
