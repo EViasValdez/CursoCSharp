@@ -33,7 +33,7 @@
 
         static void Main()
         {
-            var Dato = new Program();
+            // var Dato = new Program();
         }
     }
 }
