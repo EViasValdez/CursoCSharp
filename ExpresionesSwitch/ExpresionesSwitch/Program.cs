@@ -13,7 +13,7 @@
             //      4 => "Dato 4"
             //  };
 
-            //Console.WriteLine(Resultado);
+            // Console.WriteLine(Resultado);
 
             var (A, B, Opcion) = (2, 6, "+");
             var Resultado = Opcion switch
