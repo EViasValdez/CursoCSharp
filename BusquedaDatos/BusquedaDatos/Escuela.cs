@@ -21,6 +21,7 @@ namespace BusquedaDatos
         {
             bool encontrado = false;
             int i = 0;
+            
             while (encontrado == false && i < students.Count)
             {
                 if (students[i].Nombre.Equals(name))

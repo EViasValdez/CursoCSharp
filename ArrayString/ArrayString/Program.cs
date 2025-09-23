@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             string[] Cadenas = new string[4];
+            
             Cadenas[0] = "A";
             Cadenas[1] = "B";
             Cadenas[2] = "C";
