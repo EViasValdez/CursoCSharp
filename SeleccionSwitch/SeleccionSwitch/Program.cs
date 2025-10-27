@@ -8,13 +8,13 @@
             switch (Dato)
             {
                 case "Uno":
-                    Console.WriteLine("Opcion " + Dato);
+                    Console.WriteLine("Opción " + Dato);
                 break;
                 case "Dos":
-                    Console.WriteLine("Opcion " + Dato);
+                    Console.WriteLine("Opción " + Dato);
                 break;
                 case "Tres":
-                    Console.WriteLine("Opcion " + Dato);
+                    Console.WriteLine("Opción " + Dato);
                 break;
                 default:
                     Console.WriteLine("No encontrado");
