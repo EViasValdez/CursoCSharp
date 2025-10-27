@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Interpolacion de cadenas.
+            // Interpolación de cadenas.
             var Nombre = (Nombre1: "Arelia", Edad1: 20, Nombre2: "Roberto", Edad2: 18);
 
             Console.WriteLine($"Nombre: {Nombre.Nombre1}, Edad: {Nombre.Edad1}");

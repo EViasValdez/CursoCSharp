@@ -17,6 +17,7 @@ namespace ConversorVelocidades
                 Console.WriteLine("1 - Convertir m/s a km/h");
                 Console.WriteLine("2 - Convertir km/h a m/s");
                 Opcion = Convert.ToInt32(Console.ReadLine());
+                
                 switch (Opcion)
                 {
                     case 1:

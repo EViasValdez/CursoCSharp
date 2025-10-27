@@ -5,6 +5,7 @@
         static void Main()
         {
             var list = new ListaNodo();
+            
             list.ListaVacia();
             list.addNodo(1);
             list.addNodo(3);

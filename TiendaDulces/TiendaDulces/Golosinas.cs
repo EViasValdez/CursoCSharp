@@ -20,6 +20,7 @@ namespace TiendaDulces
         public override List<Producto> getProducto(string producto)
         {
             var golosinas = new List<Producto>();
+            
             if (producto.Equals(""))
             {
                 golosinas = _Golosinas;

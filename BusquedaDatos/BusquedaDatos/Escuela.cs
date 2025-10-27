@@ -42,7 +42,7 @@ namespace BusquedaDatos
             }
             else
             {
-                Console.WriteLine("No existe el nombre, intente nuevamente...!");
+                Console.WriteLine("No existe el nombre, vuelva a intentar");
                 return true;
             }
         }

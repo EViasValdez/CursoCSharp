@@ -111,7 +111,7 @@ namespace LeerMayusculasyMinusculas
         {
             for (int i = 0; i < n; i++)
             {
-                //IsLower Indica si un carácter Unicode está categorizado como una letra minúscula.
+                // IsLower Indica si un carácter Unicode está categorizado como una letra minúscula.
                 if (Char.IsLower(cadena[i]))
                 {
                     tempMn[i] = Convert.ToString(cadena[i]);
@@ -129,10 +129,10 @@ namespace LeerMayusculasyMinusculas
         }
         static void Main()
         {
-            var cadena = Console.ReadLine();
-            var data = new Program(cadena);
-            Console.WriteLine("Las letras Mayusculas son : " + data.maysculas()
-                + "\n\n" + "Las letras Minusculas son : " + data.minusculas());
+            var Cadena = Console.ReadLine();
+            var Data = new Program(Cadena);
+            Console.WriteLine("Las letras mayúsculas son : " + Data.maysculas()
+                + "\n\n" + "Las letras minúsculas son : " + Data.minusculas());
             Console.ReadLine();
         }
     }

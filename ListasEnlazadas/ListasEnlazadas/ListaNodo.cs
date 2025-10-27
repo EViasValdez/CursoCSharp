@@ -30,7 +30,7 @@ namespace ListasEnlazadas
                 while (valor1 != null)
                 {
                     valor2 = valor1.siguiente;
-                    //Condicion que verifica si el numero entrante debe de ir de primero
+                    // Condición que verifica si el numero entrante debe de ir de primero.
                     if (nuevo.dato <= valor1.dato)
                     {
                         nuevo.siguiente = primero;
@@ -39,7 +39,7 @@ namespace ListasEnlazadas
                     }
                     else
                     {
-                        //Condicion que verifica si el numero entrante debe de ir al ultimo
+                        // Condición que verifica si el numero entrante debe de ir al ultimo.
                         if (nuevo.dato > valor1.dato && valor2 == null)
                         {
                             valor1.siguiente = nuevo;
@@ -48,7 +48,7 @@ namespace ListasEnlazadas
                         }
                         else
                         {
-                            //Condicion que verifica si el numero entrante debe de ir en medio de otro nodo
+                            // Condición que verifica si el numero entrante debe de ir en medio de otro nodo.
                             if (valor1.dato < nuevo.dato && valor2.dato >= nuevo.dato)
                             {
                                 valor1.siguiente = nuevo;
@@ -69,7 +69,7 @@ namespace ListasEnlazadas
         {
             if (primero == null)
             {
-                Console.WriteLine("La lista esta vacio");
+                Console.WriteLine("La lista esta vació");
             }
             else
             {
@@ -87,7 +87,7 @@ namespace ListasEnlazadas
         }
         public void DeletePrimero()
         {
-            primero = primero.siguiente;//Elomina el primer nodo
+            primero = primero.siguiente;// Elimina el primer nodo.
         }
         public void DeleteUltimo()
         {
@@ -105,6 +105,7 @@ namespace ListasEnlazadas
             Nodo anterior = primero;
             Nodo actual = primero;
             int dato = 0;
+            
             if (p > 0)
             {
                 while (dato != p && actual.siguiente != null)

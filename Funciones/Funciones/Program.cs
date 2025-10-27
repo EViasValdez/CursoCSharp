@@ -5,6 +5,7 @@
         static void Main()
         {
             int Dato = 20;
+            
             new Program().Metodo(out Dato);
             Console.WriteLine(Dato);
         }

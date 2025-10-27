@@ -17,24 +17,29 @@ namespace TiendaDulces
             {
                 Console.Clear();
                 Console.WriteLine("Venta de golosinas");
+
                 if (g.getProducto("").Count.Equals(0))
                 {
                     Console.WriteLine("No hay golosinas");
-                    Console.WriteLine("Desea agregar golosinas? precione la teclas s/n");
+                    Console.WriteLine("¿Desea agregar golosinas? presione la tecla s/n");
                     des = Console.ReadLine();
                     if (des.Equals("s"))
                     {
                         Console.WriteLine("Cuantas golosinas va agregar?");
                         int cant = Convert.ToInt16(Console.ReadLine());
+
                         for (int i = 0; i < cant; i++)
                         {
                             Console.WriteLine("Nueva golosinas");
                             Console.WriteLine("Ingrese la id");
                             var id = Console.ReadLine();
+
                             Console.WriteLine("Ingrese el nombre");
                             var nombre = Console.ReadLine();
+
                             Console.WriteLine("Ingrese el precio");
                             var precio = Convert.ToDouble(Console.ReadLine());
+
                             g.addProducto(new Producto
                             {
                                 ID = id,
@@ -42,8 +47,9 @@ namespace TiendaDulces
                                 Precio = precio
                             });
                         }
-                        Console.WriteLine("Desea ir al inicio s/n");
+                        Console.WriteLine("¿Desea ir al inicio? s/n");
                         des = Console.ReadLine();
+
                         if (des.Equals("s"))
                         {
                             valor = true;
@@ -57,6 +63,7 @@ namespace TiendaDulces
                     {
                         Console.WriteLine("Desea ir al inicio s/n");
                         des = Console.ReadLine();
+                        
                         if (des.Equals("s"))
                         {
                             Console.Clear();
@@ -73,10 +80,11 @@ namespace TiendaDulces
                     Console.WriteLine("Lista de golosinas");
                     foreach (var item in g.getProducto(""))
                     {
-                        Console.WriteLine($"Codigo {item.ID} Golosina {item.Nombre} Precio {item.Precio}");
+                        Console.WriteLine($"Código {item.ID} Golosina {item.Nombre} Precio {item.Precio}");
                     }
-                    Console.WriteLine("Desea realizar ventas de golosinas? s/n");
+                    Console.WriteLine("¿Desea realizar ventas de golosinas? s/n");
                     des = Console.ReadLine();
+
                     if (des.Equals("s"))
                     {
                         ventas();
@@ -119,14 +127,16 @@ namespace TiendaDulces
                 Console.WriteLine("Ingrese el producto");
                 string producto = Console.ReadLine();
                 var productos = g.getProducto(producto);
+
                 while (productos.Count.Equals(0))
                 {
-                    Console.WriteLine("Golosinas no disponible, por favor seleccione otro.");
+                    Console.WriteLine("Golosina no disponible, por favor seleccione otra.");
                     producto = Console.ReadLine();
                     productos = g.getProducto(producto);
                 }
-                Console.WriteLine($"Su monto apagar es: {productos[0].Precio} $ Dolar");
+                Console.WriteLine($"Su monto a pagar es: {productos[0].Precio} $ Dolar");
                 double pago = solicitarPago();
+
                 while (pago < productos[0].Precio)
                 {
                     Console.WriteLine("Faltan " + (productos[0].Precio - pago).ToString() + " $ Dolar");

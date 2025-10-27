@@ -6,6 +6,7 @@
         {
             int Dato = 20;
             new Program().Metodo(out Dato);
+            
             Console.WriteLine(Dato);
         }
         private void Metodo(out int Valor)
