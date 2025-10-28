@@ -8,7 +8,7 @@ namespace TiendaDulces
 {
     interface IMenu
     {
-        void golosinas();
+        void dulces();
         void ventas();
         double solicitarPago();
     }

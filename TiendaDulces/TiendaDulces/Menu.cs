@@ -8,7 +8,7 @@ namespace TiendaDulces
 {
     public class Menu : IMenu
     {
-        Almacen g = new Golosinas();
+        Almacen g = new Dulces();
         public void golosinas()
         {
             var des = "";
@@ -16,7 +16,7 @@ namespace TiendaDulces
             do
             {
                 Console.Clear();
-                Console.WriteLine("Venta de golosinas");
+                Console.WriteLine("Venta de dulces");
 
                 if (g.getProducto("").Count.Equals(0))
                 {

@@ -8,7 +8,7 @@ namespace TiendaDulces
     {
         static void Main()
         {
-            new Program().golosinas();
+            new Program().dulces();
         }
     }
 }

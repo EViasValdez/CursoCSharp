@@ -6,7 +6,7 @@
         {
             string Nombre1 = "Arelia";
             string Nombre2 = "Roberto";
-            string Nombre3 = Nombre2;
+            // string Nombre3 = Nombre2;
 
             Nombre1 += Nombre2;
             Console.WriteLine("Nombre: ", Nombre1);

@@ -9,7 +9,7 @@
         }
         private void MetodoPrivado()
         {
-            Console.WriteLine("Metodo privado");
+            Console.WriteLine("Método privado");
             Console.ReadLine();
         }
     }

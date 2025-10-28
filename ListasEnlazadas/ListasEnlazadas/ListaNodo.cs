@@ -17,7 +17,7 @@ namespace ListasEnlazadas
         }
         public void addNodo(int dato)
         {
-            Nodo nuevo = new Nodo(dato);//add el nodo
+            Nodo nuevo = new Nodo(dato); // Agregar el nodo.
             Nodo valor1, valor2;
             if (primero == null)
             {
@@ -87,7 +87,7 @@ namespace ListasEnlazadas
         }
         public void DeletePrimero()
         {
-            primero = primero.siguiente;// Elimina el primer nodo.
+            primero = primero.siguiente; // Elimina el primer nodo.
         }
         public void DeleteUltimo()
         {
