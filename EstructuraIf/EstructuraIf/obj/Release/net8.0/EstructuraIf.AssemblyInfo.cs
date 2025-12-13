@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstructuraIf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b9bc4ed5ed22b00d4b5ac24625307d8a70ad8af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7641181c66e2e7a96523a0abe75ac7127fcbf0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstructuraIf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstructuraIf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
