@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DuplicadosArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7641181c66e2e7a96523a0abe75ac7127fcbf0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85916ce4203aa028121c43067bcb246bd21348f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DuplicadosArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DuplicadosArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
