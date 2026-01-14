@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubcadenasString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+623061a16370ee88965ddc0c2105374c1e02d2ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b500fa7e1cc21f0f536dd484182950b2df1356")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubcadenasString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubcadenasString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
