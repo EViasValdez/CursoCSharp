@@ -11,9 +11,9 @@
         {
             new Program("Texto de ejemplo").getProducto();
         }
-        //protected override void getProducto()
-        //{
-        //    Console.WriteLine("Otro texto de ejemplo");
-        //}
+        // protected override void getProducto()
+        // {
+        //     Console.WriteLine("Otro texto de ejemplo");
+        // }
     }
 }
