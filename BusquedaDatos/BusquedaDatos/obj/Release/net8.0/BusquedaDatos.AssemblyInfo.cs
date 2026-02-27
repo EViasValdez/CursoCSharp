@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusquedaDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b500fa7e1cc21f0f536dd484182950b2df1356")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80d36dde61945230ddd3ecc1c98bbf91b9b0461c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusquedaDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusquedaDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
