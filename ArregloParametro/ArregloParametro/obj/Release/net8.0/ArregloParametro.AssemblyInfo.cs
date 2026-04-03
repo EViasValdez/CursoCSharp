@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArregloParametro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80d36dde61945230ddd3ecc1c98bbf91b9b0461c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4b745b5f373f177a4386e3162c52392b6268aa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArregloParametro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArregloParametro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
