@@ -5,5 +5,5 @@ En este repositorio están incluidas las actividades que se realizaron durante u
 <!----Separador de la descripción---->
 
 <!----Directorio con descripción de los programas---->
-Por ser escritas.
+Todavía no las he puesto aun.
 <!----Separador del directorio con descripción de los programas---->
