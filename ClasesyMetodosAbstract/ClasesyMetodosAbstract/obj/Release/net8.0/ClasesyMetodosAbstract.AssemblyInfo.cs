@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClasesyMetodosAbstract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4b745b5f373f177a4386e3162c52392b6268aa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+496839dc6e4afe1c2a76710393df91ce2a9c34f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClasesyMetodosAbstract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClasesyMetodosAbstract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
