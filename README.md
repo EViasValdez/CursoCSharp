@@ -5,5 +5,5 @@ En este repositorio están incluidas las actividades que se realizaron durante u
 <!----Separador de la descripción---->
 
 <!----Directorio con descripción de los programas---->
-La mayoría de los programas tienen una descripcion obvia por su titulo.
+La mayoría de los programas no requerirán una descripcion, ya que los titulos lo dicen todos.
 <!----Separador del directorio con descripción de los programas---->
