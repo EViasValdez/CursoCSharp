@@ -17,7 +17,7 @@
                 Console.WriteLine(Count);
             }
 
-            Console.WriteLine("===========");
+            Console.WriteLine("==========");
 
             Count = 0;
             Valor = true;
