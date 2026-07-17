@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpresionesSwitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4d8466f809112e24b8de1723236cedb7aa73727")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00eaac42ade446dc0b49bc252a4501ccc7c1b741")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpresionesSwitch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpresionesSwitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
