@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstructuraWhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00eaac42ade446dc0b49bc252a4501ccc7c1b741")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1491b111aab8ab80688c75310b3d55e57300e542")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstructuraWhile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstructuraWhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
