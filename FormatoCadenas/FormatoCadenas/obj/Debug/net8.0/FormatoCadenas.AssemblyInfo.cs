@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormatoCadenas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e848b32317faa907ad290ded06aa66c133aab36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8d0ca753be0593580dff8a99fecbde08e1c3ad4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormatoCadenas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormatoCadenas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
