@@ -17,6 +17,7 @@
 
             var (A, B, Opcion) = (2, 6, "+");
             var Resultado = Opcion switch
+            
             {
                 "+" => A == B,
                 "-" => A < B,
