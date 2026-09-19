@@ -4,10 +4,10 @@
     {
         private String Cadena;
         private String VerMayusculas = "";
-        private String VerMinusculas = "";
+        // private String VerMinusculas = "";
         private int n;
         private string[] Mayusculas;
-        private string[] Minusculas;
+        // private string[] Minusculas;
         private string[] TempMy;
         // private string[] TempMi;
 
