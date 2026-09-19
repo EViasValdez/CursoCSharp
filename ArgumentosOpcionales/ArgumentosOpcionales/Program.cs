@@ -24,7 +24,7 @@
         // }
 
         readonly int Valor1;
-        const int Valor2 = 98;
+        // const int Valor2 = 98;
 
         public Program() {
             Valor1 = 10;

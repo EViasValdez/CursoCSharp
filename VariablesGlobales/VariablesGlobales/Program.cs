@@ -9,7 +9,7 @@
         private string[] Mayusculas;
         private string[] Minusculas;
         private string[] TempMy;
-        private string[] TempMi;
+        // private string[] TempMi;
 
         public String Mayus()
         {
