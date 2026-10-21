@@ -13,6 +13,7 @@ namespace TiendaDulces
         {
             var des = "";
             var valor = false;
+
             do
             {
                 Console.Clear();
@@ -25,13 +26,13 @@ namespace TiendaDulces
                     des = Console.ReadLine();
                     if (des.Equals("s"))
                     {
-                        Console.WriteLine("Cuantas golosinas va agregar?");
+                        Console.WriteLine("¿Cuantas golosinas va agregar?");
                         int cant = Convert.ToInt16(Console.ReadLine());
 
                         for (int i = 0; i < cant; i++)
                         {
                             Console.WriteLine("Nueva golosinas");
-                            Console.WriteLine("Ingrese la id");
+                            Console.WriteLine("Ingrese la ID");
                             var id = Console.ReadLine();
 
                             Console.WriteLine("Ingrese el nombre");
@@ -61,7 +62,7 @@ namespace TiendaDulces
                     }
                     else
                     {
-                        Console.WriteLine("Desea ir al inicio s/n");
+                        Console.WriteLine("¿Desea ir al inicio s/n?");
                         des = Console.ReadLine();
                         
                         if (des.Equals("s"))
@@ -104,7 +105,7 @@ namespace TiendaDulces
             double res = 0;
             while (!pagoCorrecto)
             {
-                Console.WriteLine("Como desea pagar con: 10, 5");
+                Console.WriteLine("¿Como desea pagar? (Puede ser 5 o 10)");
                 res = double.Parse(Console.ReadLine());
                 if (res != 5 && res != 10)
                 {
