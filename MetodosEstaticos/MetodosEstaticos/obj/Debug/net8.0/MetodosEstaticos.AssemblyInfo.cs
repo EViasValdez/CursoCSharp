@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodosEstaticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8d0ca753be0593580dff8a99fecbde08e1c3ad4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b87b99a1fab491bb1adb6256265a225ddd6ce62")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodosEstaticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodosEstaticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
