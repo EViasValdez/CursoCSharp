@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpeadoresdeAsignacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b87b99a1fab491bb1adb6256265a225ddd6ce62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f7aa215a1462ab652ab9a636eebb5892db4f26")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpeadoresdeAsignacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpeadoresdeAsignacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

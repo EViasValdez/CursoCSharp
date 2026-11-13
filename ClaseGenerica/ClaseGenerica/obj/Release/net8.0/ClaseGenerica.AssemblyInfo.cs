@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClaseGenerica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e848b32317faa907ad290ded06aa66c133aab36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f7aa215a1462ab652ab9a636eebb5892db4f26")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClaseGenerica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClaseGenerica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
