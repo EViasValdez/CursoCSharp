@@ -8,6 +8,7 @@ namespace UsoStringBuilder
         static void Main(string[] args)
         {
             StringBuilder Nombres = new StringBuilder("Francisco Arevalo");
+            
             // Nombres[0] = a;
             Nombres.Append(" ");
             Nombres.Append("Filberto").Append(" ").Append("Escobar").Append(" ");
